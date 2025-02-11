@@ -1,4 +1,4 @@
-# Terraform: Launching an EC2 Instance with Networking Configurations
+# Terraform: Provisioning an EC2 Instance with Network Configuraion
 
 This Terraform configuration script will launch an EC2 instance within a VPC, subnet, and security group on AWS. The EC2 instance will be associated with a public IP address and will allow inbound SSH and HTTP traffic.
 
